@@ -174,8 +174,13 @@ const renderNoteList = async (notes) => {
 const getAndRenderNotes = () => getNotes().then(renderNoteList);
 
 if (window.location.pathname === '/notes') {
+  // saves the note to db
   saveNoteBtn.addEventListener('click', handleNoteSave);
+
+  // clears the note fields
   newNoteBtn.addEventListener('click', handleNewNoteView);
+
+  // note title and text fields, when entering a key the save button will appear
   noteTitle.addEventListener('keyup', handleRenderSaveBtn);
   noteText.addEventListener('keyup', handleRenderSaveBtn);
 }
