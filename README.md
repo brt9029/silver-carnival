@@ -6,7 +6,8 @@
 - Click the Save Button on the top right (This will appear after typing into the field)
 - A unique ID will be generated for each note added
 
-![image](https://user-images.githubusercontent.com/26530136/146693306-1d5a26fd-3b90-40a4-85ac-a98d35606fa6.png)
+![image](https://user-images.githubusercontent.com/26530136/146693337-81a2701b-6d74-4c3f-838c-91247502b244.png)
+
 
 
 ## Credits
