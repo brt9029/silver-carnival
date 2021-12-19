@@ -1,5 +1,8 @@
 # Note-Taker
-- Save notes on a hosted webpage
+- Save notes on a webpage
+
+![image](https://user-images.githubusercontent.com/26530136/146693364-8dd3b2dc-fd86-47aa-9771-e8fe331da0b1.png)
+
 
 ## Usage
 - Deployed link on Heroku: https://desolate-anchorage-52198.herokuapp.com/
