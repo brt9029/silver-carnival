@@ -2,6 +2,7 @@
 - Save notes on a hosted webpage
 
 ## Usage
+- Deployed link on Heroku: https://desolate-anchorage-52198.herokuapp.com/
 - Enter a Note Title and fill in the Note Info fields
 - Click the Save Button on the top right (This will appear after typing into the field)
 - A unique ID will be generated for each note added
